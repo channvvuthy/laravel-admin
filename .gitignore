@@ -1,6 +1,6 @@
 .DS_Store
 phpunit.phar
-/vendor
+vendor
 composer.phar
 composer.lock
 *.project
